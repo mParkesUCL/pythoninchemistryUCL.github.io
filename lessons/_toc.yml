@@ -42,4 +42,6 @@ parts:
       - file: common_libs/matplotlib_pyplot_basics.ipynb
       - file: common_libs/Introduction_to_NumPy.ipynb
       - file: common_libs/argparse.ipynb
-
+    - file: further_info/further_info.md
+      sections:
+      - file: further_info/numerical_errors.ipynb
