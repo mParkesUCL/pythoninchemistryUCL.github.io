@@ -1,7 +1,7 @@
 # Opening and Using a Jupyter Notebook
 
 ## Prerequisites
-- [A Python installation](/lessons/basics/write_run_python.md)
+- [A Python installation](/basics/write_run_python.md)
 
 ## What is a Jupyter Notebook?
 Some Python code is accompanied by a mixture of text and images in what is called a workbook. This kind of code is stored in a file format called a _Jupyter Notebook_. You can recognise a Jupyter Notebook because the file name ends in `.ipynb`
@@ -11,7 +11,7 @@ If you don't already have a Jupyter Notebook file, you can {download}`download a
 
 ## Instructions
 
-If you installed Python using [Anaconda](/lessons/basics/write_run_python.md#installation) then Jupyter will have already been installed. If you used a different method you might need to install it. 
+If you installed Python using [Anaconda](/basics/write_run_python.md#installation) then Jupyter will have already been installed. If you used a different method you might need to install it. 
 
 If you used conda then use the following command:
 
