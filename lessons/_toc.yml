@@ -15,6 +15,7 @@ parts:
     - file: variables/manipulating_variables.md
       sections:
       - file: variables/Variable_data_types.ipynb
+      - file: variables/lists_and_indexing.ipynb
       - file: variables/mathematical_operators.ipynb
       - file: variables/Comparisons.ipynb
     - file: loops_functions/organising_code.md
