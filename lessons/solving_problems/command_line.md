@@ -20,7 +20,7 @@ On Linux it will depend on your distro. Generally look for an app called one of 
 
 Once opened we can do various things. Initially it should look something like this:
 
-![An image of a terminal with just the current directory showing](/lessons/solving_problems/images/term_1.png)
+![An image of a terminal with just the current directory showing](/solving_problems/images/term_1.png)
 
 Depending on the 'shell' that you have you might have more information, such as your user name. We can now enter commands into this prompt.
 
